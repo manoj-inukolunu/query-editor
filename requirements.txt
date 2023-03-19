@@ -1,8 +1,0 @@
-numpy
-JayDeBeApi
-pandas
-requests
-Flask
-salesforce-cdp-connector
-flask-cors
-redis
